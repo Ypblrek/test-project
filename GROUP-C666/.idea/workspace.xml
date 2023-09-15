@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a50d2c63-b61b-4c0c-b9f0-7c3f809843cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../C65/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/bin/jetty-run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/bin/jetty-stop.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/bin/package.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/bin/package.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/src/main/resources/META-INF/ehcache.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/src/main/resources/META-INF/logback.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/src/main/webapp/WEB-INF/webdefault.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C65/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRoUP-Cc65/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRoUP-Cc65/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRoUP-Cc65/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRoUP-Cc65/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRoUP-Cc65/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRoUP-Cc65/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/Transport/Air.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/Transport/Cargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/Transport/Civilian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/Transport/Ground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/Transport/Military.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/Transport/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/Transport/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/Transport/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/AOPspring/AspectTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/AOPspring/MyFirstAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/Annotation/AspectAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/CookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/FirstServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/Frontcontroler/FrontController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/Frontcontroler/NewsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/Frontcontroler/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/JSPServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/JSTLServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/Konfig/DispatcherServletInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/Konfig/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/Servis/NewsServis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/Servis/UserServis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/Spring/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/Spring/HRManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/Spring/SpringAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/Spring/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/Spring/SpringStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/filter/MyFirstFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/filter/MySecondFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/jdbc/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/jdbc/jdbcCollabalStatmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/jdbc/jdbcmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/listiners/RequestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/listiners/StartApplicationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/AbFabrica/AaFabrica/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/AbFabrica/AaFabrica/JavaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/AbFabrica/AaFabrica/PythonFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/AbFabrica/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/AbFabrica/ffff/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/AbFabrica/ffff/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/AbFabrica/ffff/JavaCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/AbFabrica/ffff/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/AbFabrica/ffff/JavaLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/AbFabrica/ffff/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/AbFabrica/ffff/PythonCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/AbFabrica/ffff/PythonDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/AbFabrica/ffff/PythonLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Decorator/DeveloperDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Decorator/IDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Decorator/JuniorDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Decorator/SeniorDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Decorator/TeamLead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Decorator/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Fabrica/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Fabrica/Factories/DeveloperFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Fabrica/Factories/JavaDeveloperFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Fabrica/Factories/PythonDeveloperFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Fabrica/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Fabrica/PythonDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Fabrica/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Facade/ComputerFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Facade/DVDDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Facade/DVDROM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Facade/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Facade/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Singleton/Belaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/Singleton/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/adpter/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/adpter/SenderAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/adpter/SmsSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/adpter/TelegramLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/adpter/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/builder/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/paterny/builder/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/solidS/Accounting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/solidS/DDDD/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/solidS/DDDD/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/solidS/DDDD/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/solidS/DDDD/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/solidS/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/solidS/HrManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/solidS/L/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/solidS/L/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/solidS/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/java/com/tms/tomcat/TimeWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/resources/db/migration/V1_1_0__my_first_migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/resources/spring-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/webapp/WEB-INF/HelloMVC.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/webapp/WEB-INF/images/cat.jpg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/webapp/WEB-INF/images/meme.jpg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/webapp/WEB-INF/pages/Bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/webapp/WEB-INF/pages/JavaServerPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/webapp/WEB-INF/pages/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/webapp/WEB-INF/pages/helloUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/webapp/WEB-INF/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/webapp/WEB-INF/pages/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/webapp/WEB-INF/pages/my-first-html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Group-65/src/main/webapp/time.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/NewProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/src/Resources/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/src/Resources/names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group-C65/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group-C65/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group-C65/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group-C65/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group-C65/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group-C65/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group-C65/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group-C65/src/main/java/com/tms/FirstServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group-C65/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group-C65/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject/src/KlassZadachka/Klass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProject/src/KlassZadachka/Klass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject/src/Transport/Air.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject/src/Transport/Cargo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject/src/Transport/Civilian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject/src/Transport/Ground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject/src/Transport/Military.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject/src/Transport/Passenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject/src/Transport/Transport.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2SR8pRYpGGfoDv6s7NaEjltYfGa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/firstProject/Group-65",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a50d2c63-b61b-4c0c-b9f0-7c3f809843cc" name="Changes" comment="" />
+      <created>1689098218753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689098218753</updated>
+      <workItem from="1689098219747" duration="374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
