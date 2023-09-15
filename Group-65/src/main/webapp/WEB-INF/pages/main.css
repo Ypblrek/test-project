@@ -1,0 +1,12 @@
+.Privet{
+    background-color: red;
+    front-size: 300%;
+    margin: 100px 0px 0px 0px;
+}
+body{
+    background-color: chartreuse;
+
+}
+.hello{
+    text-align: right;
+}

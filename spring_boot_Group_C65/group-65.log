@@ -1,0 +1,56 @@
+2023-08-08T20:50:31.857+03:00  INFO 18000 --- [main] com.tms.SpringBootGroupC65Application    : Starting SpringBootGroupC65Application using Java 17.0.7 with PID 18000 (D:\firstProject\spring_boot_Group_C65\target\classes started by Acer in D:\firstProject\spring_boot_Group_C65)
+2023-08-08T20:50:31.863+03:00  INFO 18000 --- [main] com.tms.SpringBootGroupC65Application    : No active profile set, falling back to 1 default profile: "default"
+2023-08-08T20:50:32.516+03:00  INFO 18000 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-08-08T20:50:32.524+03:00  INFO 18000 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-08-08T20:50:32.524+03:00  INFO 18000 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-08-08T20:50:32.583+03:00  INFO 18000 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-08-08T20:50:32.583+03:00  INFO 18000 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 685 ms
+2023-08-08T20:50:32.747+03:00  INFO 18000 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-08-08T20:50:32.790+03:00  INFO 18000 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.2.1.Final
+2023-08-08T20:50:32.793+03:00  INFO 18000 --- [main] org.hibernate.cfg.Environment            : HHH000406: Using bytecode reflection optimizer
+2023-08-08T20:50:32.795+03:00  WARN 18000 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.jdbc.user], use [jakarta.persistence.jdbc.user] instead
+2023-08-08T20:50:32.796+03:00  WARN 18000 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.jdbc.password], use [jakarta.persistence.jdbc.password] instead
+2023-08-08T20:50:32.796+03:00  WARN 18000 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.jdbc.url], use [jakarta.persistence.jdbc.url] instead
+2023-08-08T20:50:32.796+03:00  WARN 18000 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.jdbc.driver], use [jakarta.persistence.jdbc.driver] instead
+2023-08-08T20:50:32.930+03:00  WARN 18000 --- [main] org.hibernate.orm.connections.pooling    : HHH10001002: Using built-in connection pool (not intended for production use)
+2023-08-08T20:50:32.934+03:00  INFO 18000 --- [main] org.hibernate.orm.connections.pooling    : HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2023-08-08T20:50:32.934+03:00  INFO 18000 --- [main] org.hibernate.orm.connections.pooling    : HHH10001012: Connecting with JDBC URL [jdbc:postgresql://localhost:5432/postgres]
+2023-08-08T20:50:32.934+03:00  INFO 18000 --- [main] org.hibernate.orm.connections.pooling    : HHH10001001: Connection properties: {password=****, user=postgres}
+2023-08-08T20:50:32.934+03:00  INFO 18000 --- [main] org.hibernate.orm.connections.pooling    : HHH10001003: Autocommit mode: false
+2023-08-08T20:50:32.936+03:00  INFO 18000 --- [main] org.hibernate.orm.connections.pooling    : HHH10001115: Connection pool size: 20 (min=1)
+2023-08-08T20:50:33.099+03:00  INFO 18000 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect, version: org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$DialectResolutionInfoImpl@2c6c302f
+2023-08-08T20:50:33.222+03:00  INFO 18000 --- [main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
+2023-08-08T20:50:33.718+03:00  INFO 18000 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-08-08T20:50:34.024+03:00  INFO 18000 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-08T20:50:34.031+03:00  INFO 18000 --- [main] com.tms.SpringBootGroupC65Application    : Started SpringBootGroupC65Application in 2.463 seconds (process running for 2.891)
+2023-08-08T20:50:44.494+03:00  INFO 18000 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-08T20:50:44.494+03:00  INFO 18000 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-08T20:50:44.495+03:00  INFO 18000 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-08-08T20:52:40.193+03:00  INFO 15520 --- [main] com.tms.SpringBootGroupC65Application    : Starting SpringBootGroupC65Application using Java 17.0.7 with PID 15520 (D:\firstProject\spring_boot_Group_C65\target\classes started by Acer in D:\firstProject\spring_boot_Group_C65)
+2023-08-08T20:52:40.194+03:00  INFO 15520 --- [main] com.tms.SpringBootGroupC65Application    : No active profile set, falling back to 1 default profile: "default"
+2023-08-08T20:52:40.721+03:00  INFO 15520 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-08-08T20:52:40.726+03:00  INFO 15520 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-08-08T20:52:40.726+03:00  INFO 15520 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-08-08T20:52:40.785+03:00  INFO 15520 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-08-08T20:52:40.786+03:00  INFO 15520 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 559 ms
+2023-08-08T20:52:40.892+03:00  INFO 15520 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-08-08T20:52:40.920+03:00  INFO 15520 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.2.1.Final
+2023-08-08T20:52:40.921+03:00  INFO 15520 --- [main] org.hibernate.cfg.Environment            : HHH000406: Using bytecode reflection optimizer
+2023-08-08T20:52:40.923+03:00  WARN 15520 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.jdbc.user], use [jakarta.persistence.jdbc.user] instead
+2023-08-08T20:52:40.924+03:00  WARN 15520 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.jdbc.password], use [jakarta.persistence.jdbc.password] instead
+2023-08-08T20:52:40.924+03:00  WARN 15520 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.jdbc.url], use [jakarta.persistence.jdbc.url] instead
+2023-08-08T20:52:40.924+03:00  WARN 15520 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.jdbc.driver], use [jakarta.persistence.jdbc.driver] instead
+2023-08-08T20:52:41.043+03:00  WARN 15520 --- [main] org.hibernate.orm.connections.pooling    : HHH10001002: Using built-in connection pool (not intended for production use)
+2023-08-08T20:52:41.046+03:00  INFO 15520 --- [main] org.hibernate.orm.connections.pooling    : HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2023-08-08T20:52:41.046+03:00  INFO 15520 --- [main] org.hibernate.orm.connections.pooling    : HHH10001012: Connecting with JDBC URL [jdbc:postgresql://localhost:5432/postgres]
+2023-08-08T20:52:41.046+03:00  INFO 15520 --- [main] org.hibernate.orm.connections.pooling    : HHH10001001: Connection properties: {password=****, user=postgres}
+2023-08-08T20:52:41.046+03:00  INFO 15520 --- [main] org.hibernate.orm.connections.pooling    : HHH10001003: Autocommit mode: false
+2023-08-08T20:52:41.047+03:00  INFO 15520 --- [main] org.hibernate.orm.connections.pooling    : HHH10001115: Connection pool size: 20 (min=1)
+2023-08-08T20:52:41.175+03:00  INFO 15520 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect, version: org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$DialectResolutionInfoImpl@7ec08115
+2023-08-08T20:52:41.282+03:00  INFO 15520 --- [main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
+2023-08-08T20:52:41.687+03:00  INFO 15520 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-08-08T20:52:41.993+03:00  INFO 15520 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-08T20:52:42.000+03:00  INFO 15520 --- [main] com.tms.SpringBootGroupC65Application    : Started SpringBootGroupC65Application in 2.07 seconds (process running for 2.436)
+2023-08-08T20:52:45.146+03:00  INFO 15520 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-08T20:52:45.146+03:00  INFO 15520 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-08T20:52:45.147+03:00  INFO 15520 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
